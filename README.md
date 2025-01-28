@@ -126,8 +126,9 @@ This project have only russian localization!
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/your-org/secure-subessenger.git
-cd secure-submessenger
+git clone https://github.com/konst-alexandrovv/submessenger_with_mandatory_ru_alpha.git
+tar -xvf cr2arc.tar
+cd cr2arc
 chmod +x ./scripts/build-all.sh
 ./scripts/build-all.sh
 ```
@@ -356,8 +357,9 @@ Cross-platform sub'messenger with GPG encryption and mandatory access control.
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-org/secure-submessenger.git
-cd secure-submessenger
+git clone https://github.com/konst-alexandrovv/submessenger_with_mandatory_ru_alpha.git
+tar -xvf cr2arc.tar
+cd cr2arc
 chmod +x ./scripts/build-all.sh
 ./scripts/build-all.sh
 ```
